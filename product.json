@@ -1,0 +1,56 @@
+[
+  {
+    "name": "iPhone 10",
+    "price": 42000,
+    "featured": true,
+    "company": "Apple"
+  },
+  {
+    "name": "iPhone 11",
+    "price": 51300,
+    "featured": true,
+    "company": "Apple"
+  },
+  {
+    "name": "iPhone 12",
+    "price": 62000,
+    "featured": true,
+    "company": "Apple"
+  },
+  {
+    "name": "iPhone 13",
+    "price": 75200,
+    "featured": false,
+    "company": "Apple"
+  },
+  {
+    "name": "iPhone 14",
+    "price": 85999,
+    "featured": false,
+    "company": "Apple"
+  },
+  {
+    "name": "iPhone 15",
+    "price": 90000,
+    "featured": false,
+    "company": "Apple"
+  },
+  {
+    "name": "iPhone 15 Pro MAx",
+    "price": 120000,
+    "featured": true,
+    "company": "Apple"
+  },
+  {
+    "name": "iPhone 14 Pro",
+    "price": 89999,
+    "featured": true,
+    "company": "Apple"
+  },
+  {
+    "name": "mi 13 Max Pro",
+    "price": 70000,
+    "featured": true,
+    "company": "mi"
+  }
+]
